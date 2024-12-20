@@ -33,14 +33,17 @@ My research interest includes multi-agent collaboration. I have submitted 1 pape
 <div>
 <div>
 📃Papers
-- [Tacit Learning with Adaptive Information Selection for Cooperative Multi-agent Reinforcement Learning](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)(AAMAS 2025)(Extended Abstract)
+- [Tacit Learning with Adaptive Information Selection for Cooperative Multi-agent Reinforcement Learning.](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)(AAMAS 2025)(Extended Abstract)
+  
   **Lunjun Liu**, Weilai Jiang, Yaonan Wang
 
 📚 Patents
 - A direct force/aerodynamic composite missile attitude control method based on ESO and P gain
+  
   Weilai Jiang, **Lunjun Liu**, Sichao Zhou, Yaonan Wang
   
 - An adaptive volumetric Kalman filtering aircraft aerodynamic parameter identification method
+  
   Weilai Jiang,  Sichao Zhou, Delong Hou, **Lunjun Liu**, Yaonan Wang
 
 # 💻 Internships
