@@ -26,6 +26,7 @@ My research interest includes multi-agent collaboration. I have submitted 1 pape
 <div>
 <div>
 - *2022.09 - now*, M.E. in [College of Electrical and Information Engineering](https://eeit.hnu.edu.cn/), [Hunan University](https://www.hnu.edu.cn/).  
+  
 - *2017.09 - 2021.06*, B.E. in [School of Electrical and Information Engineering](https://www.hnit.edu.cn/dqgc/), [Hunan Institute of Technology](https://www.hnit.edu.cn/). 
 
 # 📝 Publications 
@@ -38,6 +39,7 @@ My research interest includes multi-agent collaboration. I have submitted 1 pape
 📚 Patents
 - A direct force/aerodynamic composite missile attitude control method based on ESO and P gain
   Weilai Jiang, **Lunjun Liu**, Sichao Zhou, Yaonan Wang
+  
 - An adaptive volumetric Kalman filtering aircraft aerodynamic parameter identification method
   Weilai Jiang,  Sichao Zhou, Delong Hou, **Lunjun Liu**, Yaonan Wang
 
