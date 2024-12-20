@@ -38,11 +38,11 @@ My research interest includes multi-agent collaboration. I have submitted 1 pape
 
   
 ## 📚 Patents
-- A direct force/aerodynamic composite missile attitude control method based on ESO and P gain
+- A direct force/aerodynamic composite missile attitude control method based on ESO and P gain.
   
   Weilai Jiang, **Lunjun Liu**, Sichao Zhou, Yaonan Wang
   
-- An adaptive volumetric Kalman filtering aircraft aerodynamic parameter identification method
+- An adaptive volumetric Kalman filtering aircraft aerodynamic parameter identification method.
   
   Weilai Jiang,  Sichao Zhou, Delong Hou, **Lunjun Liu**, Yaonan Wang
 
