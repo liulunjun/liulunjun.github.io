@@ -25,6 +25,7 @@ My research interest includes multi-agent collaboration. I have submitted 1 pape
 # 📖 Educations
 <div>
 <div>
+- *2024.09 - now*, [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), Hong Kong.
 - *2022.09 - now*, M.E. in [College of Electrical and Information Engineering](https://eeit.hnu.edu.cn/), [Hunan University](https://www.hnu.edu.cn/).  
 - *2017.09 - 2021.06*, B.E. in [School of Electrical and Information Engineering](https://www.hnit.edu.cn/dqgc/), [Hunan Institute of Technology](https://www.hnit.edu.cn/). 
 
