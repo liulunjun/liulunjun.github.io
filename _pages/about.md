@@ -29,7 +29,7 @@ My research interest includes multi-agent collaboration. I have submitted 1 pape
 
 # 📝 Publications 
 
-## 📃Papers
+## 📃 Papers
 
 - [Tacit Learning with Adaptive Information Selection for Cooperative Multi-agent Reinforcement Learning.](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)(**AAMAS 2025**) (Extended Abstract)
   
