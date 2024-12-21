@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lunjun Liu (刘伦君)"
+title                    : "Lunjun Liu"
 description              : "M.E. student in Hunan University. Focusing on reinforcement learning and Multi-agent System."
 repository               : "liulunjun/liulunjun.github.io"
 google_scholar_stats_use_cdn : false
@@ -21,8 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lunjun Liu"
-  avatar           : "images/profpic.jpg"
+  name             : "Lunjun Liu (刘伦君)"
+  avatar           : "images/profpic.jpg" 
   bio              : "Hunan University"
   location         : "Changsha, Hunan, China"
   employer         :
