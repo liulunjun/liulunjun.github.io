@@ -20,7 +20,7 @@ redirect_from:
 
 I am currently a M.E. student at the College of Electrical and Information Engineering of Hunan University (HNU), mainly engaged in the research of reinforcement learning, and multi-agent system.
 
-My research interest includes multi-agent collaboration. I have submitted 1 papers at the top AI Conferences and applied 2 invention patent.
+My research interest includes multi-agent collaboration and LLM4RL. I have submitted 1 papers at the top AI Conferences and applied 2 invention patent.
 
 # 📖 Educations
 - *2022.09 -   now*,   M.E. in [College of Electrical and Information Engineering](https://eeit.hnu.edu.cn/), [Hunan University](https://www.hnu.edu.cn/).  
