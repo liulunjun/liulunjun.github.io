@@ -23,8 +23,8 @@ I am currently a M.E. student at the College of Electrical and Information Engin
 My research interest includes multi-agent collaboration and LLM4RL. I have submitted 1 papers at the top AI Conferences and applied 2 invention patent.
 
 # 📖 Educations
-- *2022.09 -   now*,   M.E. in [College of Electrical and Information Engineering](https://eeit.hnu.edu.cn/), [Hunan University](https://www.hnu.edu.cn/).  
-- *2017.09 - 2021.06*, B.E. in [School of Electrical and Information Engineering](https://www.hnit.edu.cn/dqgc/), [Hunan Institute of Technology](https://www.hnit.edu.cn/). 
+- *2022.09 -   now*,   M.E. in Artificial Intelligence, [College of Electrical and Information Engineering](https://eeit.hnu.edu.cn/), [Hunan University](https://www.hnu.edu.cn/).  
+- *2017.09 - 2021.06*, B.E. in Electrical Engineering, [School of Electrical and Information Engineering](https://www.hnit.edu.cn/dqgc/), [Hunan Institute of Technology](https://www.hnit.edu.cn/). 
 
 
 # 📝 Publications 
