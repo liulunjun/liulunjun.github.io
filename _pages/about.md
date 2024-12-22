@@ -36,7 +36,8 @@ My research interest includes LLM4RL and multi-agent collaboration. I have submi
 
 ## 📃 Papers
 
-- <mark style="background-color：#03228D"><font color=white>AAMAS 2025</font></mark> [Tacit Learning with Adaptive Information Selection for Cooperative Multi-agent Reinforcement Learning.](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) (Extended Abstract)
+- <span style="color:white;background-color:#03228D;padding:3px;border-radius:3px;">AAMAS 2025</span>
+ [Tacit Learning with Adaptive Information Selection for Cooperative Multi-agent Reinforcement Learning.](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) (Extended Abstract)
   
   **Lunjun Liu**, Weilai Jiang, Yaonan Wang.
 
