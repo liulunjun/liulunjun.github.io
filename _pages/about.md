@@ -28,7 +28,8 @@ My research interest includes LLM4RL and multi-agent collaboration. I have submi
 - Retrieval Augmented Generation
 
 # 🎓 Educations
-- *2022.09 -   now*,   M.E. in Artificial Intelligence, [College of Electrical and Information Engineering](https://eeit.hnu.edu.cn/), [Hunan University](https://www.hnu.edu.cn/).  
+- *2025.09 -   now*,   Ph.D. in Computer Science, [School of Computer Science](https://cs.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/).  
+- *2022.09 - 2025.06*, M.E. in Artificial Intelligence, [College of Electrical and Information Engineering](https://eeit.hnu.edu.cn/), [Hunan University](https://www.hnu.edu.cn/).  
 - *2017.09 - 2021.06*, B.E. in Electrical Engineering, [School of Electrical and Information Engineering](https://www.hnit.edu.cn/dqgc/), [Hunan Institute of Technology](https://www.hnit.edu.cn/). 
 
 
