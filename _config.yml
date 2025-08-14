@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lunjun Liu"
-description              : "M.E. student in Hunan University. Focusing on reinforcement learning and LLMs."
+description              : "Ph.D. student in Wuhan University. Focusing on reinforcement learning and LLMs."
 repository               : "liulunjun/liulunjun.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Lunjun Liu (刘伦君)"
   avatar           : "images/profpic.jpg" 
-  bio              : "Hunan University"
-  location         : "Changsha, Hunan, China"
+  bio              : "Wuhan University"
+  location         : "Wuhan, Hubei, China"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "barryyyliu@hnu.edu.cn"
+  email            : "liulunjun@whu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
