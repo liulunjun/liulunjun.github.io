@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am currently a M.E. student at the College of Electrical and Information Engineering of Hunan University (HNU), mainly engaged in the research of reinforcement learning, LLM, and multi-agent system.
+I am currently a Ph.D. student at the School of Computer Science of Wuhan University (WHU), mainly engaged in the research of reinforcement learning, LLM, and multi-agent system.
 
 My research interest includes LLM4RL and multi-agent collaboration. I have submitted 1 papers at the top AI conference and applied 2 invention patents.
 
