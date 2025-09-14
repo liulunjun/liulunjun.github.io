@@ -18,14 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am currently a Ph.D. student at the School of Computer Science of Wuhan University (WHU), mainly engaged in the research of reinforcement learning, LLM, and multi-agent system.
+I am currently a Ph.D. student at the School of Computer Science of Wuhan University (WHU), mainly engaged in the research of RL, LLM, and MAS.
 
-My research interest includes LLM4RL and multi-agent collaboration. I have submitted 1 papers at the top AI conference and applied 2 invention patents.
+My research interest includes LLM+RL and multi-agent collaboration. I have submitted 1 papers at the top AI conference and applied 2 invention patents.
 
 # 💡 Interests
-- LLM4RL
+- LLM+RL
 - Multi-agent Collaboration
-- Retrieval Augmented Generation
 
 # 🎓 Educations
 - *2025.09 -   now*,   Ph.D. in Computer Science, [School of Computer Science](https://cs.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/).  
@@ -39,8 +38,6 @@ My research interest includes LLM4RL and multi-agent collaboration. I have submi
 
 - <span style="color:white;background-color:#03228D;padding:0 5px;">AAMAS 2025</span> [Tacit Learning with Adaptive Information Selection for Cooperative Multi-agent Reinforcement Learning](https://arxiv.org/abs/2412.15639), **Lunjun Liu**, Weilai Jiang, Yaonan Wang. (Extended Abstract)
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Preprints
-- RSMLP: A light Sampled MLP Structure for Incomplete Utterance Rewrite, **Lunjun Liu**, Weilai Jiang, Yaonan Wang.
   
 ## 📑 Patents
 - A Missile Attitude Control Method for Direct Force and Aerodynamic Composite Systems Based on ESO and P-Gain.
