@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lunjun Liu"
+title                    : "Lunjun Liu (刘伦君)"
 description              : "Ph.D. student in Wuhan University. Focusing on RL and LLMs."
 repository               : "liulunjun/liulunjun.github.io"
 google_scholar_stats_use_cdn : false
