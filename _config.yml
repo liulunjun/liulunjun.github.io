@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Lunjun Liu (刘伦君)"
-  avatar           : "images/profpic.jpg" 
+  avatar           : "images/avatar.jpg" 
   bio              : "Wuhan University"
   location         : "Wuhan, Hubei, China"
   employer         :
