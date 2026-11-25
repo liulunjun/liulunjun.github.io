@@ -87,14 +87,15 @@
 
 }
 
-$scroll_offset : 2em;
-h1:before, .anchor:before { 
-    content: ''; 
-    display: block; 
-    position: relative; 
-    width: 0; 
-    height: $scroll_offset; 
-    margin-top: -$scroll_offset;
+/* Keep native fragment targets below the sticky masthead. */
+html {
+    scroll-padding-top: var(--masthead-offset, 4rem);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    html {
+        scroll-behavior: smooth;
+    }
 }
 
 .badge {
