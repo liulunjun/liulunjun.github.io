@@ -18,12 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am currently a Ph.D. student at the School of Computer Science of Wuhan University (WHU), mainly engaged in the research of RL, LLM, and MAS.
-
-My research interest includes LLM+RL and multi-agent collaboration. I have submitted 1 papers at the top AI conference and applied 2 invention patents.
+I am currently a Ph.D. student at the School of Computer Science of Wuhan University (WHU), mainly engaged in the research of LLM and RL agent. My research interest includes Agentic Memory and multi-agent collaboration. I have submitted 1 papers at the top AI conference and applied 2 invention patents.
 
 # 💡 Interests
-- LLM+RL
+- Agentic Memory
 - Multi-agent Collaboration
 
 # 🎓 Educations
@@ -35,6 +33,8 @@ My research interest includes LLM+RL and multi-agent collaboration. I have submi
 # 📝 Publications 
 
 ## 📃 Papers
+
+- BoCRI: Scoped Belief Revision for Implicit Conflicts in Long-Term Agent Memory, **Lunjun Liu**, Hao Wang, Shanshan Feng. (Under Review)
 
 - <span style="color:white;background-color:#03228D;padding:0 5px;">AAMAS 2025</span> [Tacit Learning with Adaptive Information Selection for Cooperative Multi-agent Reinforcement Learning](https://arxiv.org/abs/2412.15639), **Lunjun Liu**, Weilai Jiang, Yaonan Wang. (Extended Abstract)
 
