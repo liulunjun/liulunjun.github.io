@@ -2,13 +2,14 @@
 
 <script>
   jQuery(function ($) {
+    // Let native fragment navigation own the URL and browser history.
+    $('a').off('click.smoothscroll');
+
     $('a[href]').each(function () {
       if (!/^https?:$/.test(this.protocol) ||
           this.origin === window.location.origin) {
         return;
       }
-
-      $(this).off('click.smoothscroll');
 
       if (!this.hasAttribute('target') &&
           !this.hasAttribute('download')) {
@@ -18,18 +19,22 @@
       }
     });
 
-    var $nav = $('#site-nav');
+    var masthead = $('.masthead')[0];
 
-    $nav.find('a').smoothScroll('options', {
-      beforeScroll: function (options) {
-        options.offset = -$('.masthead').outerHeight() - 12;
+    function updateScrollOffset() {
+      document.documentElement.style.setProperty('--masthead-offset',
+        Math.ceil(masthead.getBoundingClientRect().height) + 12 + 'px');
+    }
+
+    if (masthead) {
+      updateScrollOffset();
+      if (window.ResizeObserver) {
+        new ResizeObserver(updateScrollOffset).observe(masthead);
+      } else {
+        $(window).on('resize', updateScrollOffset);
       }
-    });
+    }
 
-    $nav.on('click', '.hidden-links a', function () {
-      $nav.find('.hidden-links').addClass('hidden');
-      $nav.find('button').removeClass('close');
-    });
   });
 </script>
 
