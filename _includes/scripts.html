@@ -19,8 +19,6 @@
       }
     });
 
-    var $nav = $('#site-nav');
-
     var masthead = $('.masthead')[0];
 
     function updateScrollOffset() {
@@ -37,10 +35,6 @@
       }
     }
 
-    $nav.on('click', '.hidden-links a', function () {
-      $nav.find('.hidden-links').addClass('hidden');
-      $nav.find('button').removeClass('close');
-    });
   });
 </script>
 
